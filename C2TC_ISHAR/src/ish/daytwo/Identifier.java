@@ -1,4 +1,4 @@
-package ish.dayone;
+package ish.daytwo;
 
 public class Identifier {
 
